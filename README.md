@@ -2,7 +2,7 @@
 
 Installs nave, then sets the global install of nodejs to the given version (and the respective npm version).
 
-[![wercker status](https://app.wercker.com/status/9c3905a0a14be38a75d857e1f7ffdeda/m "wercker status")](https://app.wercker.com/project/bykey/9c3905a0a14be38a75d857e1f7ffdeda)
+[![wercker status](https://app.wercker.com/status/60fba8987b5d358cd94d685bc2c04686/m "wercker status")](https://app.wercker.com/project/bykey/60fba8987b5d358cd94d685bc2c04686)
 
 ## Options
 
