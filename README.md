@@ -25,6 +25,10 @@ BSD
 
 ## Changelog
 
+### 0.0.2
+
+- Adding version echo of node and npm
+
 ### 0.0.1
 
 - Initial release
