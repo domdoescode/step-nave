@@ -15,7 +15,7 @@ Install node 0.10.6:
 ``` yaml
 build:
   steps:
-    - domudall/nave@0.0.3:
+    - domudall/nave@0.0.4:
         node-version: 0.10.6
 ```
 
@@ -24,6 +24,10 @@ build:
 BSD
 
 ## Changelog
+
+### 0.0.4
+
+- Updating registry info for search purposes
 
 ### 0.0.3
 
