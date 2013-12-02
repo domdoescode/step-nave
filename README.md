@@ -15,7 +15,7 @@ Install node 0.10.6:
 ``` yaml
 build:
   steps:
-    - nave
+    - nave:
         node-version: 0.10.6
 ```
 
