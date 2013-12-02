@@ -16,7 +16,7 @@ Install node 0.10.6:
 build:
   steps:
     - nave
-
+        node-version: 0.10.6
 ```
 
 ## License
