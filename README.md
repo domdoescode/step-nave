@@ -30,6 +30,10 @@ BSD
 
 ## Changelog
 
+### 0.0.5
+
+- Updating wercker status in README
+
 ### 0.0.4
 
 - Updating registry info for search purposes

@@ -1,3 +1,3 @@
 name: nave
-version: 0.0.4
+version: 0.0.5
 description: Install a specific version of nodejs using nave (also installs the given npm version required)
